@@ -1,0 +1,4 @@
+still does nothing
+ADD, then COMMIT
+status gives status
+log gives the list of most recent changes to a branch that I'm on. (right now)
